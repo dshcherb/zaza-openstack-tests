@@ -269,7 +269,7 @@ class RmqTests(test_utils.OpenStackBaseTest):
 
         logging.info('OK')
 
-    def test_910_pause_and_resume(self):
+    def test_922_pause_and_resume(self):
         """The services can be paused and resumed."""
         logging.info('Checking pause and resume actions...')
 
